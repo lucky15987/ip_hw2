@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb1f89d3-09b2-4197-b8c9-166b0be1f6df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/a3/html/transportSelect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a3/js/ts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a3/html/transportSelect.html" beforeDir="false" afterPath="$PROJECT_DIR$/a3/html/transportSelect.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581707026773</updated>
       <workItem from="1581707028113" duration="14087000" />
-      <workItem from="1581722274155" duration="1559000" />
+      <workItem from="1581722274155" duration="1683000" />
     </task>
     <task id="LOCAL-00001" summary="Created a js file for showing the date and time on a webpage.">
       <created>1581708635965</created>
@@ -202,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581722353918</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Updates. Created js and html files. Created basic layout for html page.&#10;Added img files">
+      <created>1581723897327</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1581723897327</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,6 +299,7 @@
     <MESSAGE value="Reference the js file. Added the &quot;onchange&quot; event listener for checkbox" />
     <MESSAGE value="Accidentally deleted var for checkbox listener" />
     <MESSAGE value="Updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
+    <MESSAGE value="Updates. Created js and html files. Created basic layout for html page.&#10;Added img files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates. Created js and html files. Created basic layout for html page.&#10;Added img files" />
   </component>
 </project>
