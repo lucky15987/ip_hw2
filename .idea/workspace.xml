@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb1f89d3-09b2-4197-b8c9-166b0be1f6df" name="Default Changelist" comment="" />
+    <list default="true" id="eb1f89d3-09b2-4197-b8c9-166b0be1f6df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/a2/html/shippingBilling.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -73,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581707026773</updated>
-      <workItem from="1581707028113" duration="6400000" />
+      <workItem from="1581707028113" duration="6580000" />
     </task>
     <task id="LOCAL-00001" summary="Created a js file for showing the date and time on a webpage.">
       <created>1581708635965</created>
@@ -117,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581713427869</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Cleaned up code">
+      <created>1581713487436</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581713487436</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +206,7 @@
     <MESSAGE value="Created arrays for days of the week and months (non abbreviated). &#10;Referenced the id from html file and inserted the date and time &#10;under the correct format." />
     <MESSAGE value="Created info files" />
     <MESSAGE value="Removed unnecessary vars" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed unnecessary vars" />
+    <MESSAGE value="Cleaned up code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up code" />
   </component>
 </project>
