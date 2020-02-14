@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb1f89d3-09b2-4197-b8c9-166b0be1f6df" name="Default Changelist" comment="Created a js file for showing the date and time on a webpage.">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1/js/dateTime.js" beforeDir="false" afterPath="$PROJECT_DIR$/a1/js/dateTime.js" afterDir="false" />
-    </list>
+    <list default="true" id="eb1f89d3-09b2-4197-b8c9-166b0be1f6df" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581707026773</updated>
-      <workItem from="1581707028113" duration="6144000" />
+      <workItem from="1581707028113" duration="6400000" />
     </task>
     <task id="LOCAL-00001" summary="Created a js file for showing the date and time on a webpage.">
       <created>1581708635965</created>
@@ -100,7 +96,28 @@
       <option name="project" value="LOCAL" />
       <updated>1581713164813</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created arrays for days of the week and months (non abbreviated). &#10;Referenced the id from html file and inserted the date and time &#10;under the correct format.">
+      <created>1581713336717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581713336717</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created info files">
+      <created>1581713377328</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581713377328</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Removed unnecessary vars">
+      <created>1581713427869</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581713427869</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +194,9 @@
     <MESSAGE value="Created a js file for showing the date and time on a webpage." />
     <MESSAGE value="Organized files and folders for clarity" />
     <MESSAGE value="Created id tag for js to reference." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created id tag for js to reference." />
+    <MESSAGE value="Created arrays for days of the week and months (non abbreviated). &#10;Referenced the id from html file and inserted the date and time &#10;under the correct format." />
+    <MESSAGE value="Created info files" />
+    <MESSAGE value="Removed unnecessary vars" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unnecessary vars" />
   </component>
 </project>
