@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb1f89d3-09b2-4197-b8c9-166b0be1f6df" name="Default Changelist" comment="" />
+    <list default="true" id="eb1f89d3-09b2-4197-b8c9-166b0be1f6df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/a3/html/transportSelect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a3/js/ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +36,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="405222e1-ee81-4e24-8024-560d2e825a1d" />
   </component>
   <component name="ProjectId" id="1XoKUzRpiEgoVnGFWe4mU0P5T5v" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -74,6 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581707026773</updated>
       <workItem from="1581707028113" duration="14087000" />
+      <workItem from="1581722274155" duration="1559000" />
     </task>
     <task id="LOCAL-00001" summary="Created a js file for showing the date and time on a webpage.">
       <created>1581708635965</created>
@@ -187,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581721165692</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Updates">
+      <created>1581722353918</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1581722353918</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +263,9 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
