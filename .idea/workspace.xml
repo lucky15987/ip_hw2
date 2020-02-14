@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb1f89d3-09b2-4197-b8c9-166b0be1f6df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/a2/html/shippingBilling.html" beforeDir="false" afterPath="$PROJECT_DIR$/a2/html/shippingBilling.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a2/js/sb.js" beforeDir="false" afterPath="$PROJECT_DIR$/a2/js/sb.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581707026773</updated>
-      <workItem from="1581707028113" duration="8231000" />
+      <workItem from="1581707028113" duration="14023000" />
     </task>
     <task id="LOCAL-00001" summary="Created a js file for showing the date and time on a webpage.">
       <created>1581708635965</created>
@@ -154,7 +155,35 @@
       <option name="project" value="LOCAL" />
       <updated>1581715112233</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated workspace. Added the checkbox">
+      <created>1581715378292</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581715378292</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Adjusted the &quot;Verify&quot; button dimensions.">
+      <created>1581716124656</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1581716124656</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Reference the js file. Added the &quot;onchange&quot; event listener for checkbox">
+      <created>1581720737480</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581720737480</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Accidentally deleted var for checkbox listener">
+      <created>1581720826557</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1581720826557</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +268,10 @@
     <MESSAGE value="Created the basic layout for Shipping info" />
     <MESSAGE value="Created the basic layout for Billing info" />
     <MESSAGE value="Updated workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated workspace" />
+    <MESSAGE value="Updated workspace. Added the checkbox" />
+    <MESSAGE value="Adjusted the &quot;Verify&quot; button dimensions." />
+    <MESSAGE value="Reference the js file. Added the &quot;onchange&quot; event listener for checkbox" />
+    <MESSAGE value="Accidentally deleted var for checkbox listener" />
+    <option name="LAST_COMMIT_MESSAGE" value="Accidentally deleted var for checkbox listener" />
   </component>
 </project>
