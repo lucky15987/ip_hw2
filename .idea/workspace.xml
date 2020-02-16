@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb1f89d3-09b2-4197-b8c9-166b0be1f6df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a3/js/ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/a3/js/ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a2/js/sb.js" beforeDir="false" afterPath="$PROJECT_DIR$/a2/js/sb.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,7 @@
       <workItem from="1581707028113" duration="14087000" />
       <workItem from="1581722274155" duration="2350000" />
       <workItem from="1581737292152" duration="3670000" />
-      <workItem from="1581871571537" duration="752000" />
+      <workItem from="1581871571537" duration="1581000" />
     </task>
     <task id="LOCAL-00001" summary="Created a js file for showing the date and time on a webpage.">
       <created>1581708635965</created>
@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581871714713</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Updates. Added a default in the situation no option is selected.">
+      <created>1581872375390</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1581872375390</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +333,7 @@
     <MESSAGE value="Updates. Created js and html files. Created basic layout for html page.&#10;Added img files" />
     <MESSAGE value="Updates. Added the switch case to handle user input." />
     <MESSAGE value="Updates." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates." />
+    <MESSAGE value="Updates. Added a default in the situation no option is selected." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates. Added a default in the situation no option is selected." />
   </component>
 </project>
