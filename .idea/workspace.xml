@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb1f89d3-09b2-4197-b8c9-166b0be1f6df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a3/html/transportSelect.html" beforeDir="false" afterPath="$PROJECT_DIR$/a3/html/transportSelect.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a3/js/ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/a3/js/ts.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +82,7 @@
       <updated>1581707026773</updated>
       <workItem from="1581707028113" duration="14087000" />
       <workItem from="1581722274155" duration="2350000" />
-      <workItem from="1581737292152" duration="1768000" />
+      <workItem from="1581737292152" duration="3670000" />
     </task>
     <task id="LOCAL-00001" summary="Created a js file for showing the date and time on a webpage.">
       <created>1581708635965</created>
@@ -216,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581723973883</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Updates. Added the switch case to handle user input.">
+      <created>1581739126637</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1581739126637</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +318,7 @@
     <MESSAGE value="Updates" />
     <MESSAGE value="Updates. Created js and html files. Created basic layout for html page.&#10;Added img files" />
     <MESSAGE value="Updates." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates." />
+    <MESSAGE value="Updates. Added the switch case to handle user input." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates. Added the switch case to handle user input." />
   </component>
 </project>
