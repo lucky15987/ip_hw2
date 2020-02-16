@@ -17,6 +17,7 @@ submit.addEventListener('click', function()
     var select = document.querySelector("input[name=select]").value.toLowerCase();
     switch (select)
     {
+
         case "car":
         {
            img.src = "../img/car.jpg";
@@ -39,6 +40,11 @@ submit.addEventListener('click', function()
         {
             img.src ="../img/train.jpg";
             src.appendChild(img);
+            break;
+        }
+        default:
+        {
+            alert("Invalid submission. Select from options above.");
             break;
         }
 
